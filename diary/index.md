@@ -1,5 +1,6 @@
 ---
 title:  bob's diary
+layout: diary
 ---
 ## bob's diary ##
 
