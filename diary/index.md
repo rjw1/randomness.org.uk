@@ -6,13 +6,6 @@ layout: diary
 
 ### 2014 ###
 
-#### Febuary 2014 ####
-
-* 12th london devops
-* 15th tbbc agm - colchester
-* 20th workish drinks
-* 22nd picocon? / eng vs ire twickenham
-
 #### April 2014 ####
 
 * 18th-21st eastercon?
