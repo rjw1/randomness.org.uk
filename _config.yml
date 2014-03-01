@@ -1,0 +1,4 @@
+name: bob
+markdown: redcarpet
+pygments: true
+exclude : ['vendor', 'Gemfile*', 'bin']
