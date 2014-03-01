@@ -1,4 +1,4 @@
 name: bob
 markdown: redcarpet
 pygments: true
-exclude : ['vendor', 'Gemfile*']
+exclude : ['vendor', 'Gemfile*', 'bin']
