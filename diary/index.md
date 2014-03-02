@@ -1,6 +1,6 @@
 ---
 title:  bob's diary
-layout: diary
+layout: default
 ---
 ## bob's diary ##
 
