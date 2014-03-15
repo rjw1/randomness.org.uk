@@ -13,7 +13,11 @@ layout: default
 
 #### April 2014 ####
 
+* 6th cricket
 * 8th massage
+* 20th cricket
+* 21st cricket
+* 27th cricket - hampshire?
 
 #### May 2014 ####
 
