@@ -22,9 +22,11 @@ layout: default
 #### May 2014 ####
 
 * 4th cricket - kent ?
+* 5th bank holiday
 * 6th massage
 * 11th cricket
 * 25th cricket - essex ?
+* 26th bank holiday
 * 30th cricket
 
 #### August 2014 ####
