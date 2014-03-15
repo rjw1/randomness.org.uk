@@ -62,6 +62,7 @@ layout: default
 
 #### September 2014 ####
 
+* 13th british beard and moustache championships
 
 
 ### 2038 ###
