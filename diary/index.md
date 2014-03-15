@@ -57,6 +57,12 @@ layout: default
 * 14th-18th Loncon 3
 * 19th oval test
 * 20th cricket
+* 25th bank holiday
+* 31st cricket
+
+#### September 2014 ####
+
+
 
 ### 2038 ###
 
