@@ -9,7 +9,6 @@ layout: default
 
 #### March 2014 ####
 
-* 6th ominor drinks
 * 25th fotango drinks
 
 #### April 2014 ####
