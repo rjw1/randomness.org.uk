@@ -39,6 +39,15 @@ layout: default
 * 28th cricket
 * 29th cricket
 
+#### July 2014 ####
+
+* 2nd cricket
+* 11th cricket
+* 16th cricket
+* 20th cricket - guildford
+* 24th cricket - lords ?
+* 27th cricket - guildford
+* 31st cricket - lords ?
 
 #### August 2014 ####
 
