@@ -14,7 +14,6 @@ layout: default
 #### April 2014 ####
 
 * 8th massage
-* 18th-21st eastercon?
 
 #### May 2014 ####
 
