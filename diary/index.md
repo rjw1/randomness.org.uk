@@ -21,7 +21,11 @@ layout: default
 
 #### May 2014 ####
 
+* 4th cricket - kent ?
 * 6th massage
+* 11th cricket
+* 25th cricket - essex ?
+* 30th cricket
 
 #### August 2014 ####
 
