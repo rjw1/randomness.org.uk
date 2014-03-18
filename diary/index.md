@@ -9,66 +9,65 @@ layout: default
 
 #### March 2014 ####
 
-* 25th govuk migration and possibly fotango drinks.
+* Tue 25th govuk migration and possibly fotango drinks.
 
 #### April 2014 ####
 
-* 6th cricket
-* 7th London Devops
-* 8th massage
-* 20th cricket
-* 21st cricket
-* 27th cricket - hampshire?
+* Sun 7th London Devops
+* Mon 8th massage
+* Sun 20th cricket
+* Mon 21st cricket
+* Sun 27th cricket - hampshire?
 
 #### May 2014 ####
 
-* 4th cricket - kent ?
-* 5th bank holiday
-* 6th massage
-* 11th cricket
-* 25th cricket - essex ?
-* 26th bank holiday
-* 30th cricket
+* Sun 4th cricket - kent ?
+* Mon 5th bank holiday
+* Tue 6th massage
+* Sun 11th cricket
+* Sun 25th cricket - essex ?
+* Mon 26th bank holiday
+* Fri 30th cricket
 
 #### June 2014 ####
 
-* 1st cricket
-* 6th cricket
-* 13th cricket
-* 22nd cricket
-* 27th cricket
-* 28th cricket
-* 29th cricket
+* Sun 1st cricket
+* Fri 6th cricket
+* Fri 13th cricket
+* Sun 22nd cricket
+* Fri 27th cricket
+* Sat 28th cricket
+* Sun 29th cricket
 
 #### July 2014 ####
 
-* 2nd cricket
-* 11th cricket
-* 16th cricket
-* 20th cricket - guildford
-* 24th cricket - lords ?
-* 27th cricket - guildford
-* 31st cricket - lords ?
+* Wed 2nd cricket
+* Fri 11th cricket
+* Wed 16th cricket
+* Sun 20th cricket - guildford
+* Thu 24th cricket - lords ?
+* Sun 27th cricket - guildford
+* Thu 31st cricket - lords ?
 
 #### August 2014 ####
 
-* 5th cricket
-* 6th cricket
+* Tue 5th cricket
+* Wed 6th cricket
 * 12th-13th GBBF
 * 14th-18th Loncon 3
-* 19th oval test
-* 20th cricket
-* 25th bank holiday
-* 31st cricket
+* Tue 19th oval test
+* Wed 20th cricket
+* Mon 25th bank holiday
+* Sun 31st cricket
 
 #### September 2014 ####
 
-* 13th british beard and moustache championships
+* Sat 13th british beard and moustache championships
 
 
 ### 2038 ###
 
 #### January 2038 ####
 
-* 19th drinking port from porto 2011
+* Tue 19th drinking port from porto 2011
 
