@@ -14,6 +14,7 @@ layout: default
 #### April 2014 ####
 
 * 6th cricket
+* 7th London Devops
 * 8th massage
 * 20th cricket
 * 21st cricket
