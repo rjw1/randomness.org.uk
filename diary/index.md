@@ -13,6 +13,7 @@ layout: default
 * Sun 20th cricket
 * Mon 21st cricket
 * Sun 27th cricket - hampshire?
+* Tue 29th ENT appointment 15:45
 
 #### May 2014 ####
 
