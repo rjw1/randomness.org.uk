@@ -6,11 +6,6 @@ layout: default
 
 ### 2014 ###
 
-
-#### March 2014 ####
-
-* Tue 25th govuk migration and possibly fotango drinks.
-
 #### April 2014 ####
 
 * Sun 7th London Devops
