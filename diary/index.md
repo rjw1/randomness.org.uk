@@ -8,8 +8,7 @@ layout: default
 
 #### April 2014 ####
 
-* Sun 6th Cricket
-* Mon 7th  Cricket ? + London Devops
+* Mon 7th Cricket ? + London Devops
 * Tue 8th massage
 * Sun 20th cricket
 * Mon 21st cricket
