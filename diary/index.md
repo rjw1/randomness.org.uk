@@ -31,7 +31,7 @@ layout: default
 * Sun 1st cricket
 * Fri 6th cricket
 * Fri 13th cricket
-* Sun 22nd cricket
+* Sun 22nd cricket + paddys bbq.
 * Fri 27th cricket
 * Sat 28th cricket
 * Sun 29th cricket
