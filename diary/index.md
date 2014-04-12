@@ -8,8 +8,6 @@ layout: default
 
 #### April 2014 ####
 
-* Mon 7th lunch with anna at bonnington cafe + Cricket ? + London Devops
-* Tue 8th massage
 * Fri 18th indy trilogy with martin at PCC
 * Sun 20th cricket
 * Mon 21st cricket
