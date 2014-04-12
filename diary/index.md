@@ -11,7 +11,7 @@ layout: default
 * Fri 18th indy trilogy with martin at PCC
 * Sun 20th cricket
 * Mon 21st cricket
-* Sun 27th cricket - hampshire?
+* Sun 27th capital beards at the royal standard
 * Tue 29th ENT appointment 15:45
 
 #### May 2014 ####
