@@ -4,6 +4,9 @@ layout: default
 ---
 ## bob's diary ##
 
+If you want to invite me to something [pull requests](https://github.com/rjw1/randomness.org.uk/blob/master/diary/index.md)
+are welcome or you can email me.
+
 ### 2014 ###
 
 #### April 2014 ####
