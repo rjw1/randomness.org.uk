@@ -16,6 +16,7 @@ layout: default
 
 #### May 2014 ####
 
+* Fri 2nd dinner with Kake at Karnavar
 * Sun 4th cricket - kent ?
 * Mon 5th bank holiday
 * Tue 6th massage
