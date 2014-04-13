@@ -16,5 +16,5 @@ then
   exit 1
 fi
 
-mv $DRAFT $POST
-
+git mv $DRAFT $POST
+git ci
