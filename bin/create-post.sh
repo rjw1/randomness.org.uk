@@ -11,4 +11,7 @@ else
   echo "layout: post" >> _drafts/${POST}.md
   echo "title: $TITLE" >> _drafts/${POST}.md
   echo "---" >> _drafts/${POST}.md
+
+  git add _drafts/${POST}.md
+  git ci _drafts/${POST}.md -m "Add a new draft post with the title $TITLE"
 fi
