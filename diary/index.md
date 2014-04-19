@@ -11,7 +11,6 @@ are welcome or you can email me.
 
 #### April 2014 ####
 
-* Fri 18th indy trilogy with martin at PCC
 * Sun 20th cricket
 * Mon 21st cricket
 * Sun 27th capital beards at the royal standard
