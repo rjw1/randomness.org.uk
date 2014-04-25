@@ -21,6 +21,7 @@ are welcome or you can email me.
 * Mon 5th bank holiday
 * Tue 6th massage
 * Sun 11th cricket
+* Sat 17th steve/claire and small proto human in town
 * Sun 25th cricket - essex ?
 * Mon 26th bank holiday
 * Fri 30th cricket
