@@ -11,8 +11,6 @@ are welcome or you can email me.
 
 #### April 2014 ####
 
-* Sun 20th cricket
-* Mon 21st cricket
 * Sun 27th capital beards at the royal standard
 * Tue 29th ENT appointment 15:45
 
