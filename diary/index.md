@@ -9,16 +9,6 @@ are welcome or you can email me.
 
 ### 2014 ###
 
-#### April 2014 ####
-
-* Sun 27th capital beards at the royal standard
-* Tue 29th ENT appointment 15:45
-
-#### May 2014 ####
-
-* Fri 2nd dinner with Kake at Karnavar
-* Sun 4th cricket - kent ?
-* Mon 5th bank holiday
 * Tue 6th massage
 * Sun 11th cricket
 * Sat 17th steve/claire and small proto human in town
