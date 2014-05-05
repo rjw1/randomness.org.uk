@@ -20,6 +20,7 @@ are welcome or you can email me.
 
 * Sun 1st cricket
 * Fri 6th cricket
+* Sat 7th Flâneurs bus challenge with Kake
 * Fri 13th cricket
 * Sun 22nd cricket + paddys bbq.
 * Fri 27th cricket
