@@ -7,7 +7,7 @@ layout: default
 If you want to invite me to something [pull requests](https://github.com/rjw1/randomness.org.uk/blob/master/diary/index.md)
 are welcome or you can email me.
 
-### 2014 ###
+### May 2014 ###
 
 * Tue 6th massage
 * Sun 11th cricket
