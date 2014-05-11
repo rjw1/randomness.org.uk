@@ -52,6 +52,11 @@ are welcome or you can email me.
 
 * Sat 13th british beard and moustache championships
 
+#### October 2014 ####
+
+* Mon 27th devops days ghent
+* Tue 28th devops days ghent
+
 
 ### 2038 ###
 
