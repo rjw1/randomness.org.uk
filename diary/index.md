@@ -12,6 +12,7 @@ are welcome or you can email me.
 #### May 2014 ####
 
 * Sat 17th steve/claire and small proto human in town
+* Wed 21st LunchOps
 * Sat 24th Capital Beards 
 * Sun 25th cricket - essex ?/ south saxon beards?
 * Mon 26th bank holiday - godfather 1 and 2?
