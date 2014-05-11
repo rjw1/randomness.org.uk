@@ -20,6 +20,7 @@ are welcome or you can email me.
 #### June 2014 ####
 
 * Sun 1st cricket
+* Tue 3rd massage
 * Fri 6th cricket
 * Fri 13th cricket
 * Sun 22nd cricket + paddys bbq.
@@ -29,12 +30,14 @@ are welcome or you can email me.
 
 #### July 2014 ####
 
+* Tue 1st massage
 * Wed 2nd cricket
 * Fri 11th cricket
 * Wed 16th cricket
 * Sun 20th cricket - guildford
 * Thu 24th cricket - lords ?
 * Sun 27th cricket - guildford
+* Tue 29th massage
 * Thu 31st cricket - lords ?
 
 #### August 2014 ####
@@ -46,14 +49,17 @@ are welcome or you can email me.
 * Tue 19th oval test
 * Wed 20th cricket
 * Mon 25th bank holiday
+* Tue 26th massage
 * Sun 31st cricket
 
 #### September 2014 ####
 
 * Sat 13th british beard and moustache championships
+* Tue 23rd massage
 
 #### October 2014 ####
 
+* Tue 21st massage
 * Mon 27th devops days ghent
 * Tue 28th devops days ghent
 
