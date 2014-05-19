@@ -2,3 +2,5 @@ name: bob
 markdown: redcarpet
 pygments: true
 exclude : ['vendor', 'Gemfile*', 'bin', 'README.md']
+gems:
+  - jekyll-sitemap
