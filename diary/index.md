@@ -19,7 +19,7 @@ are welcome or you can email me.
 * Tue 3rd massage
 * Fri 6th cricket
 * Fri 13th cricket
-* Sun 22nd cricket + paddys bbq.
+* Sun 22nd cricket + paddys bbq + midsummer beardness.
 * Fri 27th cricket
 * Sat 28th cricket
 * Sun 29th cricket
@@ -30,7 +30,7 @@ are welcome or you can email me.
 * Wed 2nd cricket
 * Fri 11th cricket
 * Wed 16th cricket
-* Sun 20th cricket - guildford
+* Sun 20th cricket - guildford + st wilgefortis day @ buckingham arms
 * Thu 24th cricket - lords ?
 * Sun 27th cricket - guildford
 * Tue 29th massage
@@ -40,7 +40,9 @@ are welcome or you can email me.
 
 * Tue 5th cricket
 * Wed 6th cricket
+* Sun 10th capital beards @ tapping the admiral?
 * 12th-13th GBBF
+* Thu 14th tbbc trip to gbbf
 * 14th-18th Loncon 3
 * Tue 19th oval test
 * Wed 20th cricket
@@ -50,14 +52,25 @@ are welcome or you can email me.
 
 #### September 2014 ####
 
+* Sat 6th tbbc @ carshalton straw jack
 * Sat 13th british beard and moustache championships
 * Tue 23rd massage
 
 #### October 2014 ####
 
+* Sat 4th tbbc at Harveys
+* Sun 19th capital beards
 * Tue 21st massage
 * Mon 27th devops days ghent
 * Tue 28th devops days ghent
+
+#### November 2014 ####
+
+* Sun 9th capital beards
+
+#### December 2014 ####
+
+* Sat 6th capital beards
 
 
 ### 2038 ###
