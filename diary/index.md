@@ -9,15 +9,13 @@ are welcome or you can email me.
 
 ### 2014 ###
 
-#### May 2014 ####
-
-* Fri 30th cricket
-
 #### June 2014 ####
 
 * Sun 1st cricket
 * Tue 3rd massage
+* Thu 5th puppet office warming
 * Fri 6th cricket
+* Wed 11th london devops
 * Fri 13th cricket
 * Sun 22nd cricket + paddys bbq + midsummer beardness.
 * Fri 27th cricket
