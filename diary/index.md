@@ -11,10 +11,6 @@ are welcome or you can email me.
 
 #### June 2014 ####
 
-* Tue 3rd massage
-* Thu 5th puppet office warming
-* Fri 6th cricket
-* Sat 7th Flâneurs bus challenge with Kake
 * Wed 11th london devops
 * Fri 13th cricket
 * Sun 22nd cricket + paddys bbq + midsummer beardness.
