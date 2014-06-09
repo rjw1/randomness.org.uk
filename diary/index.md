@@ -23,6 +23,7 @@ are welcome or you can email me.
 * Tue 1st massage
 * Wed 2nd cricket
 * Fri 11th cricket
+* Sat 12th paddy's birthday
 * Wed 16th cricket
 * Sun 20th cricket - guildford + st wilgefortis day @ buckingham arms
 * Thu 24th cricket - lords ?
@@ -55,6 +56,7 @@ are welcome or you can email me.
 * Sat 4th tbbc at Harveys
 * Sun 19th capital beards
 * Tue 21st massage
+* Sat 25th revolution
 * Mon 27th devops days ghent
 * Tue 28th devops days ghent
 
