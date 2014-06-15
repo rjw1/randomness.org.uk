@@ -11,8 +11,6 @@ are welcome or you can email me.
 
 #### June 2014 ####
 
-* Wed 11th london devops
-* Fri 13th cricket
 * Sun 22nd cricket + paddys bbq + midsummer beardness.
 * Fri 27th cricket
 * Sat 28th cricket
