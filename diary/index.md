@@ -11,9 +11,8 @@ are welcome or you can email me.
 
 #### June 2014 ####
 
-* Sun 22nd cricket + paddys bbq + midsummer beardness.
 * Fri 27th cricket
-* Sat 28th cricket
+* Sat 28th South London Streatham Hill Poker Championship, Tournament of Poker Champions in Streatham Hill, South London, Home of Poker Champions! ® - john's birthday @ bedford arms
 * Sun 29th cricket
 
 #### July 2014 ####
@@ -23,9 +22,9 @@ are welcome or you can email me.
 * Fri 11th cricket
 * Sat 12th paddy's birthday
 * Wed 16th cricket
-* Sun 20th cricket - guildford + st wilgefortis day @ buckingham arms
+* Sun 20th st wilgefortis day @ buckingham arms
 * Thu 24th cricket - lords ?
-* Sat 26th - food and games with Anna!
+* Sat 26th food and games with Anna!
 * Sun 27th cricket - guildford
 * Tue 29th massage
 * Thu 31st cricket - lords ?
