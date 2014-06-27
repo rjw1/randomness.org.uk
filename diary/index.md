@@ -25,7 +25,7 @@ are welcome or you can email me.
 * Wed 16th cricket
 * Sun 20th cricket - guildford + st wilgefortis day @ buckingham arms
 * Thu 24th cricket - lords ?
-* Sat 26th - food and games with Anna!
+* Sat 26th food and games with Anna!
 * Sun 27th cricket - guildford
 * Tue 29th massage
 * Thu 31st cricket - lords ?
