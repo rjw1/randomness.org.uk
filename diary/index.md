@@ -23,9 +23,10 @@ are welcome or you can email me.
 * Fri 11th cricket
 * Sat 12th paddy's birthday
 * Wed 16th cricket
+* Sat 19th potential Anna food and games 1
 * Sun 20th cricket - guildford + st wilgefortis day @ buckingham arms
 * Thu 24th cricket - lords ?
-* Sat 26th food and games with Anna!
+* Sat 26th potential Anna food and games 2
 * Sun 27th cricket - guildford
 * Tue 29th massage
 * Thu 31st cricket - lords ?
