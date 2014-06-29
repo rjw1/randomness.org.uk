@@ -9,12 +9,6 @@ are welcome or you can email me.
 
 ### 2014 ###
 
-#### June 2014 ####
-
-* Fri 27th cricket
-* Sat 28th South London Streatham Hill Poker Championship, Tournament of Poker Champions in Streatham Hill, South London, Home of Poker Champions! ® - john's birthday @ bedford arms
-* Sun 29th cricket
-
 #### July 2014 ####
 
 * Tue 1st massage
