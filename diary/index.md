@@ -11,10 +11,6 @@ are welcome or you can email me.
 
 #### July 2014 ####
 
-* Tue 1st massage
-* Wed 2nd cricket
-* Fri 11th cricket
-* Sat 12th paddy's birthday
 * Wed 16th cricket
 * Sun 20th st wilgefortis day @ buckingham arms
 * Thu 24th cricket - lords ?
