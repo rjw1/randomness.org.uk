@@ -23,7 +23,7 @@ are welcome or you can email me.
 
 * Tue 5th cricket
 * Wed 6th cricket
-* Sun 10th capital beards @ tapping the admiral?
+* Sun 10th capital beards @ finborough arms 
 * 12th-13th GBBF
 * Thu 14th tbbc trip to gbbf
 * 14th-18th Loncon 3
