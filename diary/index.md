@@ -31,6 +31,7 @@ are welcome or you can email me.
 * Wed 20th cricket
 * Mon 25th bank holiday
 * Tue 26th massage
+* Sat 30th 2pm afternoon tea with Kake at the Norbury Tea Room
 * Sun 31st cricket
 
 #### September 2014 ####
