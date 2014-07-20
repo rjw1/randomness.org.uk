@@ -11,8 +11,6 @@ are welcome or you can email me.
 
 #### July 2014 ####
 
-* Wed 16th cricket
-* Sun 20th st wilgefortis day @ buckingham arms
 * Thu 24th cricket - lords ?
 * Sat 26th food and games with Anna!
 * Sun 27th cricket - guildford
