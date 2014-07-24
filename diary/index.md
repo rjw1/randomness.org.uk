@@ -11,8 +11,6 @@ are welcome or you can email me.
 
 #### July 2014 ####
 
-* Tue 22nd drinks with alex
-* Thu 24th cricket - lords ?
 * Fri 25th beer with adam
 * Sat 26th food and games with Anna!
 * Sun 27th cricket - guildford
