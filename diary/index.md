@@ -25,6 +25,7 @@ are welcome or you can email me.
 * 14th-18th Loncon 3
 * Tue 19th oval test
 * Wed 20th cricket
+* Sat 23rd t20 finals day
 * Mon 25th bank holiday
 * Tue 26th massage
 * Sat 30th 2pm afternoon tea with Kake at the Norbury Tea Room
