@@ -16,6 +16,7 @@ are welcome or you can email me.
 
 #### August 2014 ####
 
+* Sat 2nd cricket - t20 quarter @ oval 14:30
 * Tue 5th cricket
 * Wed 6th cricket
 * Sun 10th capital beards @ finborough arms 
