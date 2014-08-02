@@ -9,10 +9,6 @@ are welcome or you can email me.
 
 ### 2014 ###
 
-#### July 2014 ####
-
-* Tue 29th massage
-* Thu 31st cricket - lords ?
 
 #### August 2014 ####
 
