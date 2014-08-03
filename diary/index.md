@@ -14,6 +14,7 @@ are welcome or you can email me.
 
 * Tue 5th cricket
 * Wed 6th cricket
+* Fri 8th drinks with Jon and Paddy?
 * Sun 10th capital beards @ finborough arms 
 * 12th-13th GBBF
 * Thu 14th tbbc trip to gbbf
