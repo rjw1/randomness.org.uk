@@ -12,15 +12,6 @@ are welcome or you can email me.
 
 #### August 2014 ####
 
-* Tue 5th cricket
-* Wed 6th cricket
-* Fri 8th drinks with Jon and Paddy?
-* Sun 10th capital beards @ finborough arms 
-* 12th-13th GBBF
-* Thu 14th tbbc trip to gbbf
-* 14th-18th Loncon 3
-* Tue 19th oval test
-* Wed 20th cricket
 * Sat 23rd t20 finals day
 * Mon 25th bank holiday
 * Tue 26th massage
