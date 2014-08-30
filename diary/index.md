@@ -9,11 +9,6 @@ are welcome or you can email me.
 
 ### 2014 ###
 
-
-#### August 2014 ####
-
-* Sat 30th 2pm afternoon tea with Kake at the Norbury Tea Room
-
 #### September 2014 ####
 
 * Sat 6th tbbc @ carshalton straw jack
