@@ -19,6 +19,7 @@ are welcome or you can email me.
 #### October 2014 ####
 
 * Sat 4th tbbc at Harveys
+* Sat 18th games at Anna's
 * Sun 19th capital beards
 * Tue 21st massage
 * Sat 25th revolution
