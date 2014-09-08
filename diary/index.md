@@ -11,7 +11,6 @@ are welcome or you can email me.
 
 #### September 2014 ####
 
-* Sat 6th tbbc @ carshalton straw jack
 * Sat 13th british beard and moustache championships
 * Sat 20th london.pm hackday
 * Tue 23rd massage
