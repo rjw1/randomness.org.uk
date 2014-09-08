@@ -11,6 +11,7 @@ are welcome or you can email me.
 
 #### September 2014 ####
 
+* Fri 12th travel to bath
 * Sat 13th british beard and moustache championships
 * Sat 20th london.pm hackday
 * Tue 23rd massage
