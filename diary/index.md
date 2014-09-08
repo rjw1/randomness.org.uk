@@ -13,6 +13,7 @@ are welcome or you can email me.
 
 * Fri 12th travel to bath
 * Sat 13th british beard and moustache championships
+* Sun 14th travel from bath
 * Sat 20th london.pm hackday
 * Tue 23rd massage
 
