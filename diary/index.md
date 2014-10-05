@@ -16,6 +16,9 @@ are welcome or you can email me.
 * Sat 18th games at Anna's
 * Sun 19th capital beards
 * Tue 21st massage
+* Wed 22nd My birthday (day off)
+* Thu 23rd day off
+* Fri 24th day off
 * Sat 25th revolution
 * Mon 27th devops days ghent
 * Tue 28th devops days ghent
