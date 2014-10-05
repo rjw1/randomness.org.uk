@@ -11,6 +11,7 @@ are welcome or you can email me.
 
 #### October 2014 ####
 
+* Sat 11th Cooking for cocktail party.
 * Sat 18th games at Anna's
 * Sun 19th capital beards
 * Tue 21st massage
