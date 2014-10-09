@@ -15,6 +15,7 @@ are welcome or you can email me.
 * Sat 12th Mum's Birthday
 * Sat 18th games at Anna's
 * Sun 19th capital beards
+* Mon 20th LONPUG
 * Tue 21st massage
 * Wed 22nd My birthday (day off)
 * Thu 23rd day off
@@ -22,6 +23,7 @@ are welcome or you can email me.
 * Sat 25th revolution
 * Mon 27th devops days ghent
 * Tue 28th devops days ghent
+* Wed 29th travelling back from devops day ghent
 
 #### November 2014 ####
 
