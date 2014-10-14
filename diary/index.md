@@ -11,8 +11,6 @@ are welcome or you can email me.
 
 #### October 2014 ####
 
-* Sat 11th Cooking for cocktail party.
-* Sat 12th Mum's Birthday
 * Sat 18th games at Anna's
 * Sun 19th capital beards
 * Mon 20th LONPUG
