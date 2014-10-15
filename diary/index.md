@@ -27,8 +27,8 @@ are welcome or you can email me.
 
 #### November 2014 ####
 
+* Sun 2nd dinner at Bunga Raya with Kake
 * Sun 9th capital beards
-* Thu 20th dinner at Bunga Raya with Kake
 
 #### December 2014 ####
 
