@@ -26,11 +26,14 @@ are welcome or you can email me.
 #### November 2014 ####
 
 * Sun 9th capital beards
+* Tue 18th flying to cape town
 * Thu 20th dinner at Bunga Raya with Kake
 
 #### December 2014 ####
 
 * Sat 6th capital beards
+* Tue 23rd flying back from cape town.
+* Wed 24th land in uk
 
 
 ### 2038 ###
