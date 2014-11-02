@@ -25,7 +25,7 @@ are welcome or you can email me.
 
 #### November 2014 ####
 
-* Sun 2nd dinner at Bunga Raya with Kake
+* Sun 2nd get East Meets West delivery ([Hungry House](http://hungryhouse.co.uk/east-meets-west-croydon))
 * Sun 9th capital beards
 * Tue 18th flying to cape town
 
