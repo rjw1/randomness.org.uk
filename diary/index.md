@@ -30,6 +30,7 @@ are welcome or you can email me.
 
 #### April 2015 ####
 
+* Fri 3rd - Mon 6th eastercon 
 * Sat 18th wessexbeards men beard comp.
 
 ### 2038 ###
