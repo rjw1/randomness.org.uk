@@ -28,6 +28,9 @@ are welcome or you can email me.
 
 * Sun 11th capital beards
 
+#### April 2015 ####
+
+* Sat 18th wessexbeards men beard comp.
 
 ### 2038 ###
 
