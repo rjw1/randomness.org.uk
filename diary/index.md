@@ -11,6 +11,7 @@ are welcome or you can email me.
 
 #### November 2014 ####
 
+* Sat 15th Eng vs SA
 * Tue 18th flying to cape town
 
 #### December 2014 ####
