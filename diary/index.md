@@ -19,6 +19,7 @@ are welcome or you can email me.
 * Sat 6th capital beards
 * Tue 23rd flying back from cape town.
 * Wed 24th land in uk
+* Sun 28th dyeing lesson from Kake
 
 ### 2015 ###
 
