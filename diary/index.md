@@ -14,6 +14,11 @@ are welcome or you can email me.
 
 * Sun 11th capital beards
 
+#### March 2015 ####
+
+* Sun 15th Fly to wedding
+* Tue 17th Fergus and Rachael's Wedding
+* Sat 21st Fly back from wedding
 #### April 2015 ####
 
 * Fri 3rd - Mon 6th eastercon 
