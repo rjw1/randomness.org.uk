@@ -19,6 +19,10 @@ are welcome or you can email me.
 * Fri 3rd - Mon 6th eastercon 
 * Sat 18th wessexbeards men beard comp.
 
+#### July 2015 ####
+
+* Sat 25th Malcolm and Naomi's wedding
+
 ### 2038 ###
 
 #### January 2038 ####
