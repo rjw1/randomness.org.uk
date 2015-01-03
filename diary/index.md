@@ -14,6 +14,10 @@ are welcome or you can email me.
 
 * Sun 11th capital beards
 
+#### February 2015 ####
+
+* Sun 1st Bunga Raya with Kake
+
 #### March 2015 ####
 
 * Sun 15th Fly to wedding
