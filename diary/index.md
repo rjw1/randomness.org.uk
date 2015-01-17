@@ -10,10 +10,6 @@ are welcome or you can email me.
 
 ### 2015 ###
 
-#### January 2015 ####
-
-* Sun 11th capital beards
-
 #### February 2015 ####
 
 * Sun 1st Bunga Raya with Kake
