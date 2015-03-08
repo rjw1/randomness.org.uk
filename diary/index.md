@@ -23,6 +23,8 @@ are welcome or you can email me.
 
 #### July 2015 ####
 
+* Sat 4th Kake's crossing south party
+* Sat 4th Ferg and Rackers wedding reception
 * Sat 25th Malcolm and Naomi's wedding
 
 ### 2038 ###
