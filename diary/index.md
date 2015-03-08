@@ -10,11 +10,6 @@ are welcome or you can email me.
 
 ### 2015 ###
 
-#### February 2015 ####
-
-* Sun 1st Bunga Raya with Kake
-* Thu 19th - Sun 22nd Fergus' stag do
-
 #### March 2015 ####
 
 * Thu 5th Asadal with Kake
