@@ -12,7 +12,6 @@ are welcome or you can email me.
 
 #### March 2015 ####
 
-* Thu 5th Asadal with Kake
 * Sun 15th Fly to wedding
 * Tue 17th Fergus and Rachael's Wedding
 * Sat 21st Fly back from wedding
