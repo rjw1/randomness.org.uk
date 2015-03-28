@@ -19,6 +19,7 @@ are welcome or you can email me.
 #### April 2015 ####
 
 * Fri 3rd - Mon 6th eastercon 
+* Sat 11th Dyeing lesson from Kake
 * Sat 18th wessexbeards men beard comp.
 
 #### July 2015 ####
