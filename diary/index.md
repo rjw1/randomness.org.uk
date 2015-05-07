@@ -21,6 +21,7 @@ are welcome or you can email me.
 
 #### June 2015 ####
 
+* Wed 3rd 6pm Computer Anonymous at [St George's Tavern, 14 Belgrave Road, SW1V 1QD](http://www.nicholsonspubs.co.uk/thestgeorgestavernvictorialondon/findus/)
 * Thu 18th Bus challenge with Kake if not raining
 * Fri 19th Bus challenge with Kake if it was raining yesterday
 
