@@ -19,6 +19,11 @@ are welcome or you can email me.
 
 * Sun 3rd Dyeing lesson from Kake
 
+#### June 2015 ####
+
+* Thu 18th Bus challenge with Kake if not raining
+* Fri 19th Bus challenge with Kake if it was raining yesterday
+
 #### July 2015 ####
 
 * Sat 4th Kake's crossing south party
