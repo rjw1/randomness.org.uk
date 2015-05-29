@@ -12,6 +12,8 @@ are welcome or you can email me.
 
 #### June 2015 ####
 
+* Wed 3rd dental appointment 09:40
+* Wed 10th opticians appointment 15:00
 * Thu 18th Bus challenge with Kake if not raining
 * Fri 19th Bus challenge with Kake if it was raining yesterday
 
