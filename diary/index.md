@@ -21,7 +21,7 @@ are welcome or you can email me.
 
 * Sat 4th Kake's crossing south party
 * Sat 4th Ferg and Rackers wedding reception
-* Fri 11th Steve's wedding party
+* Fri 17th Steve's wedding party
 * Sat 18th Go and see "West Croydon" tram layout at Fairfield Halls with Kake
 * Sat 25th Malcolm and Naomi's wedding
 
