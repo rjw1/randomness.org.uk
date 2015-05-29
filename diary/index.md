@@ -10,15 +10,6 @@ are welcome or you can email me.
 
 ### 2015 ###
 
-#### April 2015 ####
-
-* Fri 3rd - Mon 6th eastercon 
-* Sat 18th wessexbeards men beard comp.
-
-#### May 2015 ####
-
-* Sun 3rd Dyeing lesson from Kake
-
 #### June 2015 ####
 
 * Thu 18th Bus challenge with Kake if not raining
