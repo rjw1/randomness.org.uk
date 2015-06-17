@@ -25,6 +25,7 @@ are welcome or you can email me.
 * Fri 3rd cricket?
 * Sat 4th Kake's crossing south party
 * Sat 4th Ferg and Rackers wedding reception
+* Sun 12th Dim sum with Kake et al.
 * Fri 17th Steve's wedding party
 * Sat 18th Go and see "West Croydon" tram layout at Fairfield Halls with Kake
 * Sun 19th capital beards
