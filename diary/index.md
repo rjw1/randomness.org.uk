@@ -10,15 +10,6 @@ are welcome or you can email me.
 
 ### 2015 ###
 
-#### June 2015 ####
-
-* Thu 18th Bus challenge with Kake if not raining
-* Fri 19th Bus challenge with Kake if it was raining yesterday
-* Fri 19th Cricket?
-* Sun 21st midsummer beardness
-* Sat 27th cricket?
-* Sun 28th cricket?
-
 #### July 2015 ####
 
 * Wed 1st cricket?
