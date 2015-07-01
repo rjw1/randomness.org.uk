@@ -24,6 +24,7 @@ are welcome or you can email me.
 * Fri 24th cricket?
 * Sat 25th Malcolm and Naomi's wedding
 * Mon 27th cricket?
+* Thu 30th Take Kake for cocktails and dinner at [Playground](http://croydon.randomness.org.uk/wiki.cgi?Playground,_63_South_End)
 
 #### August 2015 ####
 
