@@ -14,8 +14,14 @@ are welcome or you can email me.
 
 * Sun 2nd capital beards
 * Tue 11th - Fri 14th GBBF
+* Sat 15th James' bbq ?
 * Thu 20th - Mon 24th Test match at oval
 * Thu 27th Take Kake for dinner at [Olde Goa](http://www.oldegoa.co.uk/)
+
+#### September 2015 ####
+
+* Fri 4th Rocky Horror at PCC 20:30 with Anna
+* Sat 12th Hat at one of Anna's houses.
 
 ### 2016 ###
 
