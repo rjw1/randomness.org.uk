@@ -36,7 +36,7 @@ are welcome or you can email me.
 
 * Thu 1st rugby
 * Fri 2nd rugby
-* Sat 3rd rugby
+* Sat 3rd rugby & world beard championships?
 * Sun 4th rugby
 * Tue 6th rugby
 * Wed 7th rugby
