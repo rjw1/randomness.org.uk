@@ -22,6 +22,15 @@ are welcome or you can email me.
 
 * Fri 4th Rocky Horror at PCC 20:30 with Anna
 * Sat 12th Hat at one of Anna's houses.
+* Fri 18th rugby - tickets
+* Sat 19th rugby - tickets
+* Sun 20th rugby
+* Wed 23rd rugby - tickets
+* Thu 24th rugby - tickets
+* Fri 25th rugby
+* Sat 26th rugby
+* Sun 27th rugby - tickets
+* Tue 29th rugby
 
 ### 2016 ###
 
