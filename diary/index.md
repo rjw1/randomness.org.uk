@@ -31,6 +31,7 @@ are welcome or you can email me.
 * Sun 2nd capital beards
 * Tue 11th - Fri 14th GBBF
 * Thu 20th - Mon 24th Test match at oval
+* Thu 27th Take Kake for dinner at [Olde Goa](http://www.oldegoa.co.uk/)
 
 ### 2016 ###
 
