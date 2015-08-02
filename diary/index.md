@@ -32,6 +32,24 @@ are welcome or you can email me.
 * Sun 27th rugby - tickets
 * Tue 29th rugby
 
+### October 2015 ####
+
+* Thu 1st rugby
+* Fri 2nd rugby
+* Sat 3rd rugby
+* Sun 4th rugby
+* Tue 6th rugby
+* Wed 7th rugby
+* Fri 9th rugby
+* Sat 10th rugby
+* Sun 11th rugby
+* Sat 17th rugby - ticket
+* Sun 18th rugby - ticket
+* Sat 24th rugby - ticket
+* Sun 25th rugby - ticket
+* Fri 30th rugby
+* Sat 31st rugby
+
 ### 2016 ###
 
 #### March 2016 ####
