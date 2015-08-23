@@ -17,6 +17,7 @@ are welcome or you can email me.
 #### September 2015 ####
 
 * Fri 4th Rocky Horror at PCC 20:30 with Anna
+* Sat 5th rugby with Baz.
 * Sat 12th Hat at one of Anna's houses.
 * Fri 18th rugby - tickets
 * Sat 19th rugby - tickets
