@@ -12,7 +12,7 @@ are welcome or you can email me.
 
 #### August 2015 ####
 
-* Thu 27th Take Kake for dinner at [Olde Goa](http://www.oldegoa.co.uk/)
+* Fri 28th Take Kake for dinner at [Olde Goa](http://www.oldegoa.co.uk/)
 
 #### September 2015 ####
 
