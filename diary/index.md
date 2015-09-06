@@ -10,10 +10,6 @@ are welcome or you can email me.
 
 ### 2015 ###
 
-#### August 2015 ####
-
-* Fri 28th Take Kake for dinner at [Olde Goa](http://www.oldegoa.co.uk/)
-
 #### September 2015 ####
 
 * Fri 4th Rocky Horror at PCC 20:30 with Anna
@@ -40,6 +36,7 @@ are welcome or you can email me.
 * Fri 9th rugby
 * Sat 10th rugby
 * Sun 11th rugby
+* Thu 15th Take Kake for dinner at [Olde Goa](http://www.oldegoa.co.uk/)
 * Sat 17th rugby - ticket
 * Sun 18th rugby - ticket
 * Sat 24th rugby - ticket
