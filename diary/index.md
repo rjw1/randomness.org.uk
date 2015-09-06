@@ -44,12 +44,6 @@ are welcome or you can email me.
 * Fri 30th rugby
 * Sat 31st rugby
 
-### 2016 ###
-
-#### March 2016 ####
-
-* Tue 1st - ? Holiday in York with Kake
-
 ### 2038 ###
 
 #### January 2038 ####
