@@ -34,9 +34,9 @@ are welcome or you can email me.
 * Fri 9th rugby
 * Sat 10th rugby
 * Sun 11th rugby
-* Thu 15th Take Kake for dinner at [Olde Goa](http://www.oldegoa.co.uk/)
 * Sat 17th rugby - ticket
 * Sun 18th rugby - ticket
+* Thu 22nd Dinner with Kake at [Olde Goa](http://www.oldegoa.co.uk/)
 * Sat 24th rugby - ticket
 * Sun 25th rugby - ticket
 * Fri 30th rugby
