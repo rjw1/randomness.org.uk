@@ -21,6 +21,10 @@ are welcome or you can email me.
 * Fri 30th rugby
 * Sat 31st rugby
 
+### December 2015 ###
+
+* Sat 5th hat at Anna's
+
 ### 2038 ###
 
 #### January 2038 ####
