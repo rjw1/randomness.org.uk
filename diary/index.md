@@ -10,23 +10,8 @@ are welcome or you can email me.
 
 ### 2015 ###
 
-#### September 2015 ####
-
-* Sat 26th rugby
-* Sun 27th rugby - tickets
-* Tue 29th rugby
-
 ### October 2015 ####
 
-* Thu 1st rugby
-* Fri 2nd rugby
-* Sat 3rd rugby & world beard championships?
-* Sun 4th rugby
-* Tue 6th rugby
-* Wed 7th rugby
-* Fri 9th rugby
-* Sat 10th rugby
-* Sun 11th rugby
 * Wed 14th Dinner with Kake et al. at [Mazi](http://london.randomness.org.uk/wiki.cgi?Mazi,_CR0_2RF)
 * Sat 17th rugby - ticket
 * Sun 18th rugby - ticket
