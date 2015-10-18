@@ -10,7 +10,7 @@ are welcome or you can email me.
 
 ### 2015 ###
 
-### October 2015 ####
+#### October 2015 ####
 
 * Thu 22nd Dinner with Kake at [Olde Goa](http://www.oldegoa.co.uk/)
 * Sat 24th rugby - ticket
@@ -18,7 +18,11 @@ are welcome or you can email me.
 * Fri 30th rugby
 * Sat 31st rugby
 
-### December 2015 ###
+#### November 2015 ###
+
+* Sat 14th Capital Beards beard comp
+
+#### December 2015 ###
 
 * Sat 5th hat at Anna's
 
