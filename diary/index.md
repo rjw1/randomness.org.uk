@@ -12,9 +12,6 @@ are welcome or you can email me.
 
 ### October 2015 ####
 
-* Wed 14th Dinner with Kake et al. at [Mazi](http://london.randomness.org.uk/wiki.cgi?Mazi,_CR0_2RF)
-* Sat 17th rugby - ticket
-* Sun 18th rugby - ticket
 * Thu 22nd Dinner with Kake at [Olde Goa](http://www.oldegoa.co.uk/)
 * Sat 24th rugby - ticket
 * Sun 25th rugby - ticket
