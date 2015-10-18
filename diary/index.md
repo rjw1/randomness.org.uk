@@ -21,6 +21,8 @@ are welcome or you can email me.
 #### November 2015 ###
 
 * Sat 14th Capital Beards beard comp
+* Sun 15th ? Silicon Milk Roundabout ?
+
 
 #### December 2015 ###
 
