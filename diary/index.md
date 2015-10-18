@@ -28,6 +28,14 @@ are welcome or you can email me.
 
 * Sat 5th hat at Anna's
 
+### 2016 ###
+
+#### January 2016 ####
+
+* Fri 29th [Croydon Fun Weekend](http://www.earth.li/~kake/croydon/croydon-fun-weekend-2016.html)
+* Sat 30th [Croydon Fun Weekend](http://www.earth.li/~kake/croydon/croydon-fun-weekend-2016.html)
+* Sun 31st [Croydon Fun Weekend](http://www.earth.li/~kake/croydon/croydon-fun-weekend-2016.html)
+
 ### 2038 ###
 
 #### January 2038 ####
