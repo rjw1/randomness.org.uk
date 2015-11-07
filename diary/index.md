@@ -10,18 +10,10 @@ are welcome or you can email me.
 
 ### 2015 ###
 
-#### October 2015 ####
-
-* Thu 22nd Dinner with Kake at [Olde Goa](http://www.oldegoa.co.uk/)
-* Sat 24th rugby - ticket
-* Sun 25th rugby - ticket
-* Fri 30th rugby
-* Sat 31st rugby
-
 #### November 2015 ###
 
 * Sat 14th Capital Beards beard comp
-* Sun 15th ? Silicon Milk Roundabout ?
+* Sun 15th Silicon Milk Roundabout
 
 
 #### December 2015 ###
