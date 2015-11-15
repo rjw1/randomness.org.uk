@@ -10,15 +10,11 @@ are welcome or you can email me.
 
 ### 2015 ###
 
-#### November 2015 ###
-
-* Sat 14th Capital Beards beard comp
-* Sun 15th Silicon Milk Roundabout
-
 
 #### December 2015 ###
 
 * Sat 5th hat at Anna's
+* Sun 6th xmas dinner at Lorna, Micheal and Michelle's
 
 ### 2016 ###
 
