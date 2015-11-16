@@ -10,9 +10,13 @@ are welcome or you can email me.
 
 ### 2015 ###
 
+#### November 2015 ####
+
+* Sat 28th Invicta beards at the hope.
 
 #### December 2015 ###
 
+* Sat 5th capital beards @ royal standard
 * Sat 5th hat at Anna's
 * Sun 6th xmas dinner at Lorna, Micheal and Michelle's
 
