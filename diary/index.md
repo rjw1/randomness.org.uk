@@ -7,19 +7,6 @@ layout: default
 If you want to invite me to something [pull requests](https://github.com/rjw1/randomness.org.uk/blob/master/diary/index.md)
 are welcome or you can email me.
 
-
-### 2015 ###
-
-#### November 2015 ####
-
-* Sat 28th Invicta beards at the hope.
-
-#### December 2015 ###
-
-* Sat 5th capital beards @ royal standard
-* Sat 5th hat at Anna's
-* Sun 6th xmas dinner at Lorna, Micheal and Michelle's
-
 ### 2016 ###
 
 #### January 2016 ####
