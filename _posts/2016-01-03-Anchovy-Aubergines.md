@@ -8,7 +8,7 @@ title: Anchovy Aubergines
 [My fans asked me to document](https://twitter.com/Kake/status/681896477514416129) how I cooked the anchovy aubergines that were part of the above dinner.
 
 * Fry a sliced onion in the oil from a tin of anchovies in a medium-sized saucepan
-* Slice an aubergine into 1 centimetre batons and fry with onions for a copule of  minutes
+* Slice an aubergine into 1 centimetre batons and fry with onions for a couple of  minutes
 * Add the tin of anchovies
 * Add a large teaspoon of red pepper paste and a large squeeze of garlic paste
 * Fry for about 5 minutes
