@@ -13,6 +13,7 @@ https://www.flickr.com/photos/rjw1/sets/72157662344496039
 https://goo.gl/photos/mAiBH85mz6v7c6y56
 
 breakfast https://www.flickr.com/photos/rjw1/24102483245/in/album-72157662344496039/ https://www.flickr.com/photos/rjw1/24082992896/in/album-72157662344496039/
+http://london.randomness.org.uk/wiki.cgi?Rio%27s_Britannia_Cafe,_SW16_4AE
 
 mot https://www.flickr.com/photos/rjw1/24087500376/in/album-72157662344496039/
 lambs https://www.flickr.com/photos/rjw1/23488675693/in/album-72157662344496039/
