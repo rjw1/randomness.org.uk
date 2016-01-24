@@ -4,7 +4,7 @@ title: London Road - New Years Day 2016
 ---
 [![London Road Norbury sign](https://farm6.staticflickr.com/5649/23476470434_89c6de6b42_z_d.jpg "London Road Norbury sign")](https://flic.kr/p/BLx3KC)
 
-Since I'm now sort of old I don't normally go our drinking on New Years Eve anymore
+Since I'm now sort of old I don't normally go out drinking on New Years Eve anymore
 This means I'm normally awake on New Year's Day without a hangover. Given this I need something to do other than watch the [World's Strongest Man](http://www.theworldsstrongestman.com/) final in the evening.
 
 In an effort to help [Kake](http://www.earth.li/~kake/) with her project to document the history of [London Road](http://london-road-croydon.org/history/) I normally spend my New Years Day taking [photos of things](https://www.flickr.com/photos/rjw1/sets/72157662344496039) on London Road. Taking a photo survey each year will help Kake as and when she writes the articles about those properties since it will hopefully catch the changes over time of the use of the properties.
