@@ -11,8 +11,6 @@ are welcome or you can email me.
 
 #### January 2016 ####
 
-* Fri 15th day off - Valet appointment 11:00
-* Fri 22nd day off - Leila's birthday
 * Fri 29th day off - [Croydon Fun Weekend](http://www.earth.li/~kake/croydon/croydon-fun-weekend-2016.html)
 * Sat 30th [Croydon Fun Weekend](http://www.earth.li/~kake/croydon/croydon-fun-weekend-2016.html)
 * Sun 31st [Croydon Fun Weekend](http://www.earth.li/~kake/croydon/croydon-fun-weekend-2016.html)
@@ -23,6 +21,7 @@ are welcome or you can email me.
 * Mon 1st cfgmgmtcamp
 * Tue 2nd cfgmgmtcamp
 * Wed 3rd travelling back to london.
+* Tue 9th ominomore drinks
 
 #### March 2016 ####
 
