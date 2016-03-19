@@ -35,6 +35,10 @@ are welcome or you can email me.
 * Sun 20th travelling back from france?
 * Fri 25th - Mon 28th eastercon?
 
+#### May 2016 ####
+
+* Fri 20th 6pm Dinner with Kake at [Speroni](http://speronirestaurant.com/)
+
 ### 2038 ###
 
 #### January 2038 ####
