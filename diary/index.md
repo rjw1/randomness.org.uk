@@ -9,32 +9,6 @@ are welcome or you can email me.
 
 ### 2016 ###
 
-#### January 2016 ####
-
-* Fri 29th day off - [Croydon Fun Weekend](http://www.earth.li/~kake/croydon/croydon-fun-weekend-2016.html)
-* Sat 30th [Croydon Fun Weekend](http://www.earth.li/~kake/croydon/croydon-fun-weekend-2016.html)
-* Sun 31st [Croydon Fun Weekend](http://www.earth.li/~kake/croydon/croydon-fun-weekend-2016.html)
-* Sun 31st Travelling to Gent
-
-#### February 2016 ####
-
-* Mon 1st cfgmgmtcamp
-* Tue 2nd cfgmgmtcamp
-* Wed 3rd travelling back to london.
-* Tue 9th ominomore drinks
-
-#### March 2016 ####
-
-* Tue 1st Fly to SA
-* Thu 10th Scaleconf
-* Fri 11th Scaleconf
-* Wed 16th Fly to UK
-* Thu 17th Arrive UK - day off
-* Fri 18th day off - going to france?
-* Sat 19th FRA vs ENG - stade de france?
-* Sun 20th travelling back from france?
-* Fri 25th - Mon 28th eastercon?
-
 #### May 2016 ####
 
 * Fri 20th 6pm Dinner with Kake at [Speroni](http://speronirestaurant.com/)
