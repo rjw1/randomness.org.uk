@@ -9,9 +9,10 @@ are welcome or you can email me.
 
 ### 2016 ###
 
-#### March 2016 ####
+#### April 2016 ###
 
-* Thu 31st Dinner with Kake at Olde Goa
+* Fri 22nd Farnham beer festival
+* Sat 23rd Capital Beards
 
 #### May 2016 ####
 
