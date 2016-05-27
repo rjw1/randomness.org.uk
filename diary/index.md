@@ -18,6 +18,10 @@ are welcome or you can email me.
 
 * Fri 20th 6pm Dinner with Kake at [Speroni](http://speronirestaurant.com/)
 
+#### June 2016 ####
+
+* Thu 16th Flâneurs bus challenge with Kake
+
 ### 2038 ###
 
 #### January 2038 ####
