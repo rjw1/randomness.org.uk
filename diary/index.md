@@ -20,6 +20,7 @@ are welcome or you can email me.
 
 #### June 2016 ####
 
+* Sat 11th Hat! at Anna's. Any time after 2.30pm
 * Thu 16th Flâneurs bus challenge with Kake
 
 ### 2038 ###
