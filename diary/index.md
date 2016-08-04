@@ -9,6 +9,9 @@ are welcome or you can email me.
 
 ### 2016 ###
 
+#### August 2016 ####
+
+* Wed 24th Dinner with Kake at Chang’s Noodle
 
 ### 2038 ###
 
