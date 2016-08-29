@@ -9,6 +9,20 @@ are welcome or you can email me.
 
 ### 2016 ###
 
+#### September 2016 ####
+
+* Sat 17th Ash's wedding
+
+#### October 2016 ####
+
+* Sat 15th British Beard Comp
+* Sat 22nd Birthday Fun
+* Wed 26th - Sat 29th DevopsDays Ghent
+
+#### November 2016 ####
+
+* Tue 1st - Sat 19th Cape Town
+* Mon 7th - Tue 8th DevopsDays Cape Town
 
 ### 2038 ###
 
