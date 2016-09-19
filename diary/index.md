@@ -15,6 +15,7 @@ are welcome or you can email me.
 
 #### October 2016 ####
 
+* Sun 2nd Dinner with Kake at [Mahala](http://croydon.randomness.org.uk/wiki.cgi?Mahala,_83_Church_Street)
 * Sat 15th British Beard Comp
 * Sat 22nd Birthday Fun
 * Wed 26th - Sat 29th DevopsDays Ghent
