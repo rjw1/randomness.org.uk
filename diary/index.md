@@ -9,10 +9,6 @@ are welcome or you can email me.
 
 ### 2016 ###
 
-#### September 2016 ####
-
-* Sat 17th Ash's wedding
-
 #### October 2016 ####
 
 * Sun 2nd Dinner with Kake at [Mahala](http://croydon.randomness.org.uk/wiki.cgi?Mahala,_83_Church_Street)
