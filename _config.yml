@@ -1,6 +1,6 @@
 name: bob
-markdown: redcarpet
-pygments: true
+markdown: kramdown
+highligter: pygments
 exclude : ['vendor', 'Gemfile*', 'bin', 'README.md']
 gems:
   - jekyll-sitemap
