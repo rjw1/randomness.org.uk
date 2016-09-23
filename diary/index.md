@@ -13,6 +13,7 @@ are welcome or you can email me.
 
 * Sun 2nd Dinner with Kake at [Mahala](http://croydon.randomness.org.uk/wiki.cgi?Mahala,_83_Church_Street)
 * Sat 15th British Beard Comp
+* Mon 17th Dune at PCC
 * Sat 22nd Birthday Fun
 * Wed 26th - Sat 29th DevopsDays Ghent
 
