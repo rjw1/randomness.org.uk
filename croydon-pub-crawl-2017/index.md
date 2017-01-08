@@ -13,9 +13,9 @@ With this pub crawl we are going to crawl from the southern most pub to the nort
 - 13:30-14:30 [Jolly Farmers](http://www.jollyfarmers-purley.co.uk/)
 - 14:30-15:00 Travel
 - 15:00-16:00 [Crown & Sceptre](http://london.randomness.org.uk/wiki.cgi?Crown_And_Sceptre,_CR2_6RB)
-- 16:30-17:00 Travel
-- 17:00-18:00 [Cronx Bar](http://www.thecronx.com/#services) at [Boxpark](https://www.boxpark.co.uk/croydon/food-and-drink/the-cronx-brewery/)
-- 18:00-18:30 Travel
-- 18:30-19:30 [Sparrowhawk](http://thesparrowhawkpub.co.uk/)
+- 16:00-16:30 Travel
+- 16:30-17:30 [Cronx Bar](http://www.thecronx.com/#services) at [Boxpark](https://www.boxpark.co.uk/croydon/food-and-drink/the-cronx-brewery/)
+- 17:30-18:00 Travel
+- 18:00-19:00 [Sparrowhawk](http://thesparrowhawkpub.co.uk/)
 
 At this point we are likely to get food and then possibly sample some of the other pubs in [Crystal Palace](http://london.randomness.org.uk/scripts/pubsearch.cgi?locale=Crystal+Palace&postal_district=&tube_distance=500&tube=&Search=Search)
