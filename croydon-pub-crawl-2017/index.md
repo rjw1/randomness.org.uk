@@ -19,3 +19,7 @@ With this pub crawl we are going to crawl from the southern most pub to the nort
 - 18:00-19:00 [Sparrowhawk](http://thesparrowhawkpub.co.uk/)
 
 At this point we are likely to get food and then possibly sample some of the other pubs in [Crystal Palace](http://london.randomness.org.uk/scripts/pubsearch.cgi?locale=Crystal+Palace&postal_district=&tube_distance=500&tube=&Search=Search)
+
+### Other info ###
+
+If you cant join us from the start and want to find out where we are either contact me on 07810 542 241 or [@rjw1 on twitter](https://twitter.com/rjw1) or indeed follow [#croydoncrawl2017](https://twitter.com/search?f=tweets&q=%23croydoncrawl2017&src=typd) on twitter.
