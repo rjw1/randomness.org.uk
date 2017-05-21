@@ -8,15 +8,15 @@ We’re accepting talk submissions via a [Google form](https://docs.google.com/f
 
 Here’s an example:
 
-ID: 1 
-Title: How to DevOps Production
-Abstract: How Alice and her team made production better by using Large Company’s tool. Alice will explain the challenges of changing the culture at Small Company while trying to implement a new technology.
+- ID: 1 
+- Title: How to DevOps Production
+- Abstract: How Alice and her team made production better by using Large Company’s tool. Alice will explain the challenges of changing the culture at Small Company while trying to implement a new technology.
 
 becomes
 
-ID: 2W1FW2W
-Title: How to DevOps Production
-Abstract: How 2W1FW2W and their team made production better by using a clustering tool. 2W1FW2W will explain the challenges of changing the culture at their place of work while trying to implement a new technology.
+- ID: 2W1FW2W
+- Title: How to DevOps Production
+- Abstract: How 2W1FW2W and their team made production better by using a clustering tool. 2W1FW2W will explain the challenges of changing the culture at their place of work while trying to implement a new technology.
 
 The plan is to take these anonymised submissions and place them into a Google form which the reviewing panel will then score on a scale of 0-3:
 
