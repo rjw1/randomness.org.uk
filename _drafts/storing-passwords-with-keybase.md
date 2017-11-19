@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Storing Passwords
+title: storing passwords with keybase
 ---
 
 I store my passwords in [pass](https://www.passwordstore.org/). I do this becuase you should use a password manager to give you unique passwords for every site. I use `pass` because I can read its code and understand it. Its not that many lines of `bash`. If gpg is broken my password store is the least of the wolrlds worries.
