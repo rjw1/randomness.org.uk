@@ -13,4 +13,4 @@ title: blog posts
 {% endfor %}
 
 </ul>
-[Atom Feed](http://randomness.org.uk/atom.xml)
+[Atom Feed](https://randomness.org.uk/atom.xml)
