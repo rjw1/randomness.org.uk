@@ -10,3 +10,7 @@ My name should be lowercased _e.g bob walker_
 
 Bob is uneven. BOB is too shouty but even. bob looks pleasing and rotates nicely. The rot13 of obo also looks better.
 bob Walker looks odd once you have made that decision. So bob walker.
+
+### See also ###
+
+[My pronouns](https://randomness.org.uk/pronouns)
