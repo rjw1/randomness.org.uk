@@ -2,5 +2,5 @@ name: bob
 markdown: kramdown
 highligter: pygments
 exclude : ['vendor', 'Gemfile*', 'bin', 'README.md']
-gems:
+plugins:
   - jekyll-sitemap
