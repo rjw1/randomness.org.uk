@@ -12,11 +12,13 @@ I have several talk abstracts available at [https://github.com/rjw1/talks](https
 ## Talks I will be giving ##
 
 
-### 2018-04-03 - [Croydon DevOps](https://www.meetup.com/The-Croydon-DevOps-Meetup/events/248533261/) - What DevOps isn't ###
 
 
 ## Talks I have given ##
 
+### 2018-04-03 - [Croydon DevOps](https://www.meetup.com/The-Croydon-DevOps-Meetup/events/248533261/) - What DevOps isn't ###
+
+#### (slides)[https://docs.google.com/presentation/d/1ucJjSaNjL6Ejp-s9mwFKkxPSf835nDacr3lzIkDqFqE/edit?usp=sharing] ####
 ### 2018-03-27 - [Leeds Devops](http://www.leedsdevops.org.uk/post/171841063865/meetup-tuesday-27th-march-2018-at-the-odi-node) - Questions you should ask at your “DevOps” interview ###
 
 #### [slides](https://docs.google.com/presentation/d/1Os_G1d0ke3Vl0PKsvN5MpnrgNV2H3ylocFRQGcXuzJU/edit?usp=sharing) ####
