@@ -16,6 +16,10 @@ I have several talk abstracts available at [https://github.com/rjw1/talks](https
 
 ## Talks I have given ##
 
+### 2018-11-2 - [DevOpsDays Edinburgh](https://www.devopsdays.org/events/2018-edinburgh/welcome/) - Questions you should ask at your 'DevOps' interview ###
+
+#### [slides](https://docs.google.com/presentation/d/1_Pl4lA9Q66LDifl28eRGmwdYfBmWDgrG5IBqCzqcGLI/edit?usp=sharing) | [video](https://www.youtube.com/watch?v=bP9XkVy9WEc&index=19&list=PLPCxlWK0-Ek4-5hWsI31TGRjfloIoKLxO&t=0s) ####
+
 ### 2018-04-03 - [Croydon DevOps](https://www.meetup.com/The-Croydon-DevOps-Meetup/events/248533261/) - What DevOps isn't ###
 
 #### [slides](https://docs.google.com/presentation/d/1ucJjSaNjL6Ejp-s9mwFKkxPSf835nDacr3lzIkDqFqE/edit?usp=sharing) ####
