@@ -17,4 +17,4 @@ then
 fi
 
 git mv $DRAFT $POST
-git ci
+git commit
