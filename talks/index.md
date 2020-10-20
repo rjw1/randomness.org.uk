@@ -30,7 +30,7 @@ I have several talk abstracts available at [https://github.com/rjw1/talks](https
 
 ### 2018-02-06 - [Config Management Camp](http://cfgmgmtcamp.eu/) - Are we all YAML engineers now? ###
 
-#### [slides](https://speakerdeck.com/rjw1/are-we-all-yaml-engineers-now) | [video](https://www.youtube.com/watch?v=0_WZHNQ6lDo&feature=youtu.be&t=22m50s) ####
+#### [slides](https://speakerdeck.com/rjw1/are-we-all-yaml-engineers-now) | [video](https://youtu.be/3L_HoTT3A6U) ####
 
 ### 2017-10-16 - [London DevOps](https://www.meetup.com/London-DevOps/events/243357104/) - What should wake you up at night? ###
 
