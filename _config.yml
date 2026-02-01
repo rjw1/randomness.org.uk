@@ -1,6 +1,6 @@
 name: bob
 markdown: kramdown
-highligter: pygments
+highlighter: rouge
 exclude : ['vendor', 'Gemfile*', 'bin', 'README.md']
 plugins:
   - jekyll-sitemap
