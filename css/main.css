@@ -6,36 +6,58 @@
 
 /* Global Reset */
 * {
-	padding:0;
-	margin:0;
+  padding: 0;
+  margin: 0;
 }
 
-html, body { height: 100%; }
+html,
+body {
+  height: 100%;
+}
 
 body {
-	margin:10px 10px 10px 10px;
-	background:black;
-	color:white;
-	font-family: lucinda, verdana, arial,sans-serif; text-decoration: none;
-        font-size: medium; 
-	padding:10px 10px;
+  margin: 10px 10px 10px 10px;
+  background: black;
+  color: white;
+  font-family: lucinda, verdana, arial, sans-serif;
+  text-decoration: none;
+  font-size: medium;
+  padding: 10px 10px;
 }
 
-h1, h2, h3, h4, h5, h6, p, ul, ol, pre {
-	padding:10px 10px;
-	margin:10px 10px 10px 10px;
-      }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+pre {
+  padding: 10px 10px;
+  margin: 10px 10px 10px 10px;
+}
 
-
-a	{ 
-	color:  #bf0ef4;
-	font-family: lucinda, verdana, arial, sans-serif; 
-	text-decoration: none;
-	}
-a:visited       { color: #bf0ef4; text-decoration: none; }
-a:link          { color: #bf0ef4; text-decoration: none; }
-a:active        { color: #bf0ef4;  }
-a:hover         { color: yellow;  }
+a {
+  color: #bf0ef4;
+  font-family: lucinda, verdana, arial, sans-serif;
+  text-decoration: none;
+}
+a:visited {
+  color: #bf0ef4;
+  text-decoration: none;
+}
+a:link {
+  color: #bf0ef4;
+  text-decoration: none;
+}
+a:active {
+  color: #bf0ef4;
+}
+a:hover {
+  color: yellow;
+}
 
 /*****************************************************************************/
 /*
@@ -114,12 +136,12 @@ a:hover         { color: yellow;  }
 }
 
 .footer .contact a {
-  color: #8085C1;
+  color: #8085c1;
 }
 
 .footer .rss {
   margin-top: 1.1em;
-  margin-right: -.2em;
+  margin-right: -0.2em;
   float: right;
 }
 
@@ -135,19 +157,18 @@ a:hover         { color: yellow;  }
 
 /* standard */
 .post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
+  background-color: black;
+  padding: 0 0.4em;
 }
 
-.post ul, .post ol {
+.post ul,
+.post ol {
   margin-left: 1.35em;
 }
 
 .post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em;
+  background-color: black;
+  padding: 0 0.2em;
 }
 
 .post pre code {
@@ -156,9 +177,8 @@ a:hover         { color: yellow;  }
 
 /* terminal */
 .post pre.terminal {
-  border: 1px solid #000;
   background-color: #333;
-  color: #FFF;
+  color: #fff;
 }
 
 .post pre.terminal code {
