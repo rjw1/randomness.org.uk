@@ -1,6 +1,6 @@
 name: bob
 markdown: kramdown
 highlighter: rouge
-exclude : ['vendor', 'Gemfile*', 'bin', 'README.md']
+exclude : ['vendor', 'Gemfile*', 'bin', 'README.md', 'ssh-askpass']
 plugins:
   - jekyll-sitemap
